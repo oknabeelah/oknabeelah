@@ -54,6 +54,12 @@
 ![Jira](https://img.shields.io/badge/Jira-6C534E?style=flat&logo=jira)
 ![Ansible](https://img.shields.io/badge/Ansible-564256?style=flat&logo=ansible)
 
+---
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+---
+
 <!-- ## 🌱 Currently Exploring
 
 - Robotics and robotic simulation
